@@ -7,7 +7,7 @@
 	Cat rescue - 1000 Ahn
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
-	
+	Yun's Office Teamup - Yun's Office is requesting the aid of a Grade 8-9 Fixer office to assist in a distortion hunt. (5000 ahn)
 	
 	
 	
