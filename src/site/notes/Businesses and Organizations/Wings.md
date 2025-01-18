@@ -19,8 +19,8 @@ Once a new Wing is appointed, they will either buy the collapsed Nest from the h
 
 
 [[Businesses and Organizations/A Corp\|A Corp]]
-[[B Corp\|B Corp]]
-[[C Corp\|C Corp]]
+[[Businesses and Organizations/B Corp\|B Corp]]
+[[Businesses and Organizations/C Corp\|C Corp]]
 [[D Corp\|D Corp]]
 [[E Corp\|E Corp]]
 [[F Corp\|F Corp]]
@@ -28,8 +28,8 @@ Once a new Wing is appointed, they will either buy the collapsed Nest from the h
 [[H Corp\|H Corp]]
 [[I Corp\|I Corp]]
 [[J Corp\|J Corp]]
-[[K Corp\|K Corp]]
-[[L Corp\|L Corp]]
+[[Businesses and Organizations/K Corp\|K Corp]]
+[[Businesses and Organizations/L Corp\|L Corp]]
 [[M Corp\|M Corp]]
 [[Businesses and Organizations/N Corp\|N Corp]]
 O Corp
