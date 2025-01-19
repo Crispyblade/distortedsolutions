@@ -4,6 +4,7 @@
 
 First Month
 Rat Job: 1500 ahn
+Werewolf: 5000 Ahn
 
 
 
@@ -18,3 +19,8 @@ Basic Food for employees:
 Total Expenses: 
 3750 Ahn + 5000 ahn + taxes
 8750 ahn per month + taxes
+
+Fixer Suit: 1500 Ahn Fresh
+Repair: 500 Ahn and a few days at the cleaners
+
+
