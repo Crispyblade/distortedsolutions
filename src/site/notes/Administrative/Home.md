@@ -6,11 +6,11 @@ Home Page
 
 [[Fixers/Offices/Distorted Solutions\|Distorted Solutions]]:
 Team Members
-[[Erie\|Erie]]
+[[Players/Erie\|Erie]]
 [[Players/Jaden\|Jaden]]
 [[Mercer\|Mercer]]
 [[Players/Suzy\|Suzy]]
-[[Players/Twink Vampire\|Twink Vampire]]
+[[Players/Vlad Dracul\|Vlad Dracul]]
 
 
 [[Geography and Politics/The City\|The City]]
