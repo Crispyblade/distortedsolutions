@@ -5,7 +5,7 @@
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
 
 	Cat rescue - 1000 Ahn
-	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
+	
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
 	
 	
@@ -14,7 +14,7 @@
 
 	Wipe out Pierre's Bistro - 6000 Ahn
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
-	
+	Syndicate Hunt - Wipe out the Brotherhood of Iron - 4000 ahn
 	
 
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
