@@ -12,9 +12,9 @@ Offices can also chose to become a "Affiliate Office" with an Association. They 
 Most Offices and Associations give guidelines for their Fixers to wear outfits fitting in with the organization's theme. Some are more strict with regulating uniforms, while others are more lax.
 
 Grade 9 Offices:
-Hook Office
-Mongoose Office
-Distorted Solutions Office
+Hook Office W Corp
+Mongoose Office M Corp
+Distorted Solutions Office W Corp
 
 
 Grade 8:
@@ -28,7 +28,7 @@ Streetlight Office
 Grade 6:
 Platypus Office
 Molar Office (Defunt)
-Molar Boatworks Office
+Molar Boatworks Office U Corp
 Rosespanner Workshop Office
 
 Grade 5:

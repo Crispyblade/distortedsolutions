@@ -5,7 +5,8 @@
 First Month
 Rat Job: 1500 ahn
 Werewolf: 5000 Ahn
-
+Cat Job: 1000 ahn
+Cat Job: 1000 ahn
 
 
 Monthly Rent: 
