@@ -21,9 +21,9 @@ Grade 8:
 Calm Office (Gone)
 
 Grade 7:
-Alligator Office
-Yun's Office
-Streetlight Office
+Alligator Office (F Corp)
+Yun's Office (M Corp)
+Streetlight Office (S Corp)
 
 Grade 6:
 Platypus Office
