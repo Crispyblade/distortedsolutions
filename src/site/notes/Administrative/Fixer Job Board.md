@@ -17,7 +17,7 @@
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 6000 Ahn
-	Teamup -Streetlight office is requesting backup for a job. Details are they're requesting help clearing out an Axe Gang group squatting in an area that Zwei will be escorting a client for. 10,000 Ahn, time critical.
+	Teamup - Streetlight office is requesting backup for a job. Details are they're requesting help clearing out an Axe Gang group squatting in an area that Zwei will be escorting a client for. 10,000 Ahn, time critical.
 	Syndicate Hunt - 4000 Ahn - Wipe out Hook Office for masquerading as fixers.
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this. ()
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
