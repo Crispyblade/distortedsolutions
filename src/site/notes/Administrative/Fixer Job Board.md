@@ -11,6 +11,7 @@
 	Strange Dreams - Nightmares in District M - 3000 Ahn (Small black figure burning people alive)
 	Assassination: A group of "Chefs" has been kidnapping people in District 23, leader is named Montblanc. Wipe out the group - 3000 Ahn
 	Assassination: A group of "Fixers" have gone "rogue" from Hook "Office". Leader is named Kelly. Wipe out the group before they tarnish our reputation - 3000 Ahn
+	Bodyguard: A client needs escorting from work to home, 2000 Ahn
 	
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
