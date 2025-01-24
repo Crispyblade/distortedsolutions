@@ -25,6 +25,11 @@ Team Members
 
 [[Economy/Business Expenses\|Business Expenses]]
 
+[[Geography and Politics/District\|District]]s
+
+[[Fixers/Offices\|Offices]]
+
+[[Fixers/Associations\|Associations]]
 
 
 Most lore was copied from here

@@ -19,12 +19,12 @@ In addition, Wings sometimes hire Syndicates as thugs to handle business they ca
 
 Known Syndicates
 
-Five Fingers
-The Thumb
-The Index
-The Middle
-The Ring
-The Pinky
+[[Five Fingers\|Five Fingers]]
+[[Syndicates/The Thumb\|The Thumb]]
+[[The Index\|The Index]]
+[[The Middle\|The Middle]]
+[[The Ring\|The Ring]]
+[[The Pinky\|The Pinky]]
 
 The Thumb's Subsidiaries
 Stray Dogs
@@ -35,6 +35,10 @@ Ramier Family
 
 The Middle’s Subsidiaries
 Twinhook Pirates
+
+The Ring's Subsidiaries
+[[Syndicates/Dead Rabbits\|Dead Rabbits]]
+
 
 Independent Syndicates
 Brotherhood of Iron

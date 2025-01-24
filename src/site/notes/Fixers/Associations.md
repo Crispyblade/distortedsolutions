@@ -21,4 +21,5 @@ List of Known Associations
 [[Cinq Association\|Cinq Association]]
 [[Liu Association\|Liu Association]]
 [[Seven Association\|Seven Association]]
-[[Öufi Association\|Öufi Association]]
+[[Fixers/Offices/Öufi Association\|Öufi Association]]
+[[Fixers/Offices/Butlers\|Butlers]]
