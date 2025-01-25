@@ -12,7 +12,7 @@ Offices can also chose to become a "Affiliate Office" with an Association. They 
 Most Offices and Associations give guidelines for their Fixers to wear outfits fitting in with the organization's theme. Some are more strict with regulating uniforms, while others are more lax.
 
 Grade 9 Offices:
-Hook Office W Corp
+[[Syndicates/Hook Office\|Hook Office]] W Corp
 Mongoose Office M Corp
 Distorted Solutions Office W Corp
 
@@ -23,7 +23,7 @@ Calm Office (Gone)
 Grade 7:
 Alligator Office (F Corp)
 Yun's Office (M Corp)
-[[Streetlight Office\|Streetlight Office]] (S Corp)
+[[Fixers/Offices/Streetlight Office\|Streetlight Office]] (S Corp)
 
 Grade 6:
 Platypus Office
