@@ -15,7 +15,7 @@ There are currently 12 Associations, which are managed by the [[Hana Association
 
 List of Known Associations
 [[Hana Association\|Hana Association]]:
-[[Zwei Association\|Zwei Association]]
+[[Fixers/Offices/Zwei Association\|Zwei Association]]
 [[Tres Association\|Tres Association]]
 [[Shi Association\|Shi Association]]
 [[Cinq Association\|Cinq Association]]

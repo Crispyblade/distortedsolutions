@@ -3,4 +3,4 @@
 ---
 
 [[Recaps/First\|First]]
-[[Second\|Second]]
+[[Recaps/Second\|Second]]
