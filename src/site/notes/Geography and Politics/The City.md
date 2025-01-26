@@ -8,6 +8,9 @@ The City is broken into 26 [[Geography and Politics/District\|District]]s, each 
 An example is L or Lobotomy Corp. This destroyed corporation produced energy for the entire city via the use of a singularity (reality warping technology that each corp has).
 [[Businesses and Organizations/Nests\|Nests]] are "idealistic societies" where everyone basically works a 9-5 office job. Nests are built above the backstreets (think FF7 Midgar), and each corporations job (known as feathers) nurture their nests. 
 
+[[Businesses and Organizations/W Corp\|W Corp]] trains allow for fast travel across The City in "under 10 seconds", however these tickets are expensive, even for the economy class
+Normal public transport also exists, but as expected is not great in the Backstreets.
+
 The general power scale (pecking order) is
 Grade 9
 Grade 8
