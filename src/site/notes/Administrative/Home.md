@@ -8,7 +8,7 @@ Home Page
 Team Members
 [[Players/Erie\|Erie]]
 [[Players/Jaden\|Jaden]]
-[[Mercer\|Mercer]]
+[[Players/Mercer\|Mercer]]
 [[Players/Suzy\|Suzy]]
 [[Players/Vlad Dracul\|Vlad Dracul]]
 

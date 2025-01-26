@@ -23,8 +23,13 @@ Can buy a total of your base stat + 1
 
 Costs:
 1000 to buy a stat boost of tier 1
-10000 to buy a stat boost of tier 2
+10,000 to buy a stat boost of tier 2
+100,000 tier 3
+1,000,000 tier 4
 and so on...
+
+Skill Augments:
+Skill chips
 
 
 Damage Types:
