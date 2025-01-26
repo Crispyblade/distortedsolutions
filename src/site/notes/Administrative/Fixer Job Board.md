@@ -15,7 +15,7 @@
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
-	Wipe out Pierre's Bistro - 6000 Ahn
+	Wipe out Pierre's Bistro - 8000 Ahn
 	Syndicate Hunt - 4000 Ahn - Wipe out Hook Office for masquerading as fixers.
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
@@ -30,7 +30,8 @@
 	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
-	Wipe out the Church of Gears - 75,000 Ahn
+	Wipe out the Church of Gears Leadership + 10 Church Members - 75,000 Ahn
+	
 	Corporate Espionage - Based on results
 	Syndicate Hunt: Wipe out the carnival - 50,000 Ahn
 	

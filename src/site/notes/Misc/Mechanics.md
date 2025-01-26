@@ -13,9 +13,19 @@ Ten Improvement Points
 20 points to buy a tier 2 skill
 30 IP to improve an Attribute's BASE stat
 
+After levelling a skill to level 10
+20 points to upgrade a skill from 10-15 for tier 1
+40 points for tier 2
+
+After levelling a skill to level 15
+40  points for tier one
+80 points for tier 2
+
+For attributes after 10
+60 points to level base stat after 10
+
 For people with talent skills
-5 points to buy a tier one skill 
-10 points to buy a tier 2 skill
+Halve the cost when buying a skill level
 
 Augments:
 Can buy a total of your base stat + 1
