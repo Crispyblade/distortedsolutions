@@ -46,7 +46,8 @@ Damage Types:
 Physical
 Bleed: Ignores armor, has to deal damage with physical first
 Example: A rat stabs you for 6 physical damage, and 5 bleed damage. Take 5
-Burn: Armor ablates. At the end of the victim's next turn after receiving burn damage, they take half of the damage again unless they use their action to put it out. After receiving damage a second time, the burn stack is halved.
+
+Burn: Armor ablates. At the end of the round, take damage equal to all burn tokens, then half the stack. You can use your action to put it out, removing all burn tokens.
 
 Sinking(x): The next time the character is hit, they take typeless sanity damage equal to sinking stacks, then remove all stacks of sinking. Sanity for the sake of this game, for every bit of sanity damage you lose 1 to attack rolls
 For example at -2 sanity you take a -2 to attack rolls. Healed after fight
