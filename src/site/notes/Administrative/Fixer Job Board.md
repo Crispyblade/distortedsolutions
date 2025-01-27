@@ -19,7 +19,7 @@
 	Syndicate Hunt - 4000 Ahn - Wipe out Hook Office for masquerading as fixers.
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
-	Distortion Hunt: A distortion has killed 100 people in X Corp - 10,000 Ahn
+	Distortion Hunt: A distortion has killed 600 people in X Corp by hugging them to death - 10,000 Ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
 		Strange Dreams - People in District N and X are having strange dreams - 7000 Ahn (Green children eating people)
 
