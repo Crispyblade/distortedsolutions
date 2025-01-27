@@ -30,7 +30,7 @@ Halve the cost when buying a skill level
 
 EGO
 Tier 2 skill
-Used to attack with EGO weapons and special moves
+Used to attack with EGO weapons and special E.G.O moves
 Every 2 E.G.O points you get one page, capped at 5 pages.
 First page needs 2 points
 

@@ -7,9 +7,10 @@
 	Cat rescue - 1000 Ahn
 	
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
-	Strange Dreams - People in District N and X are having strange dreams - 3000 Ahn (Green children eating people)
+
 	Assassination: A group of "Fixers" have gone "rogue" from Hook "Office". Leader is named Kelly. Wipe out the group before they tarnish our reputation - 3000 Ahn
 	Bodyguard: A client needs escorting from work to home, 2000 Ahn
+	Strange Dreams: W Corp - People being dragged into a bathtub filled with blood and drowned - 3000 Ahn
 	
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
@@ -20,6 +21,7 @@
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Distortion Hunt: A distortion has killed 100 people in X Corp - 10,000 Ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
+		Strange Dreams - People in District N and X are having strange dreams - 7000 Ahn (Green children eating people)
 
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
