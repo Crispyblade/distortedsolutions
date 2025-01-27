@@ -9,6 +9,7 @@ One Perk
 One Ability
 Ten Improvement Points
 
+SKILLS 
 10 points to buy a tier one skill
 20 points to buy a tier 2 skill
 30 IP to improve an Attribute's BASE stat
@@ -27,7 +28,13 @@ For attributes after 10
 For people with talent skills
 Halve the cost when buying a skill level
 
-Augments:
+EGO
+Tier 2 skill
+Used to attack with EGO weapons and special moves
+Every 2 E.G.O points you get one page, capped at 5 pages.
+First page needs 2 points
+
+AUGMENTS
 Can buy a total of your base stat + 1
 (Ask first)
 
@@ -47,7 +54,7 @@ Physical
 Bleed: Ignores armor, has to deal damage with physical first
 Example: A rat stabs you for 6 physical damage, and 5 bleed damage. Take 5
 
-Burn: Armor ablates. At the end of the round, take damage equal to all burn tokens, then half the stack. You can use your action to put it out, removing all burn tokens.
+Burn: Armor ablates. At the end of the round, take damage equal to all burn tokens, then half the stack. You can use your action to put it out, removing all burn tokens. After receiving burn damage, half the damage is given as tokens
 
 Sinking(x): The next time the character is hit, they take typeless sanity damage equal to sinking stacks, then remove all stacks of sinking. Sanity for the sake of this game, for every bit of sanity damage you lose 1 to attack rolls
 For example at -2 sanity you take a -2 to attack rolls. Healed after fight

@@ -7,8 +7,7 @@
 	Cat rescue - 1000 Ahn
 	
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
-	Strange Dreams - People in District N are having strange dreams - 3000 Ahn (Green children eating people)
-	Strange Dreams - Nightmares in District M - 3000 Ahn (Small black figure burning people alive)
+	Strange Dreams - People in District N and X are having strange dreams - 3000 Ahn (Green children eating people)
 	Assassination: A group of "Fixers" have gone "rogue" from Hook "Office". Leader is named Kelly. Wipe out the group before they tarnish our reputation - 3000 Ahn
 	Bodyguard: A client needs escorting from work to home, 2000 Ahn
 	
