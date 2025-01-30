@@ -3,3 +3,4 @@
 ---
 
 Can be slayed by defeating them in battle.
+

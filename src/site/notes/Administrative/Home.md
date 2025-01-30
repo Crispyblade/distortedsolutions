@@ -12,6 +12,7 @@ Team Members
 [[Players/Suzy\|Suzy]]
 [[Players/Vlad Dracul\|Vlad Dracul]]
 [[Players/Uta\|Uta]]
+[[Players/Anne\|Anne]]
 
 [[Geography and Politics/The City\|The City]]
 

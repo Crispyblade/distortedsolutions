@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/administrative/fixer-job-board/"}
 ---
 
+Note: These are not all jobs in the city at once, these are implied to be jobs you *could* have gotten due to someone walking into your office.
+
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
 
 	Cat rescue - 1000 Ahn
