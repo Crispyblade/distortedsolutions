@@ -27,6 +27,7 @@ All Districts typically have a set of rules citizens must follow at all times. T
 **District 7:** Owned by G Corp.  
   
 **District 8:** Owned by H Corp.  
+It's a tradition to give people Apples before Christmas
   
 **District 9:** Owned by I Corp. Known as the "Streets of Music." It is also where the "Pianist" Distortion manifested, the incident that wiped out 80% of the District's population, and destroyed much of the infrastructure. The Pianist was eventually taken out by the Black Silence.
 
@@ -38,7 +39,7 @@ All Districts typically have a set of rules citizens must follow at all times. T
   
 **District 12:** Owned by L Corp, this was the staging ground for the "White Nights and Dark Days" and the birth of [[History and Myths/The Library\|The Library]] afterwards. The entire District is in chaos after the fall of L Corp.  
   
-**District 13:** Owned by M Corp. Where the famous HamHam PangPang sandwich restaurant is located.  
+**District 13:** Owned by M Corp. Where the famous [[Businesses and Organizations/HamHamPangPang\|HamHamPangPang]] sandwich restaurant is located.  
   
 **District 14:** Owned by N Corp. All the buildings here are completely white. District 14 prides itself on pure human experiences, rejecting any usage of mechanical prosthetic.
 
@@ -51,7 +52,7 @@ N Corp has a set number of 14 Taboos, those that violate these rules are hunted 
   
 **District 17:** Owned by Q Corp. The place where Roland grew up.  
   
-**District 19:** Owned by S Corp. One of the coastal fishing districts, it has a feudal Korean aesthetic. Those from this district are known for speaking in verbose phrases. District 19 is also known for its widespread corruption and civil strife among corporate and political officials. Had the case of the "Merfolk" Distortion
+**District 19:** Owned by S Corp. One of the coastal fishing districts, it has a feudal Korean aesthetic. Those from this district are known for speaking in verbose phrases. District 19 is also known for its widespread corruption and civil strife among corporate and political officials. Had the case of the "Merfolk" Distortion. [[Syndicates/Kurokumo Clan\|Kurokumo Clan]] has setup shop here
   
 **District 20:** Owned by T Corp.  
   

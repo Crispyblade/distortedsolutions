@@ -28,7 +28,7 @@ Known Syndicates
 
 The Thumb's Subsidiaries
 Stray Dogs
-Kurokumo Clan
+[[Syndicates/Kurokumo Clan\|Kurokumo Clan]]
 Night Awls
 Rumanos Cartel
 Ramier Family
@@ -50,3 +50,4 @@ Smiling Faces
 Rusted Chains
 Blade Lineage
 Reverberation Ensemble
+[[Syndicates/Yurodiviye\|Yurodiviye]]
