@@ -6,6 +6,8 @@ Known as "Nagel und Hammer", owns District 14. They value and study the concept 
 
 One of their products is canned experiences, which allow an individual to experience emotions and sensations without actually going through the act. "Suicide" canned experiences are especially popular in N Corp.
 
+Their suicide vending machine became so popular people from other [[Businesses and Organizations/Nest\|Nest]]s flocked to move in, and is N Corp's main source of income.
+
 The crazed religious fanatics that crucify people with prosthetics are an offshoot of the corporation.
 
 **N Corp Inquisitors:** A faction of overly zealous knights wielding nails and hammers, who take a more active and extremist role against prosthetic users. The Inquisitors will march to a location they deem heretical, and proceed to massacre and burn the populace. They are brutal in their executions, and will often impale their victims on nail pikes as a display of warning.  

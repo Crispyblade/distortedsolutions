@@ -28,4 +28,10 @@ A mysterious but powerful Fixer who was responsible for taking out the Pianist D
 A Color Fixer dispatched alongside Hana South Section 1 to eliminate a Distortion organization. Unfortunatly, the entire team was wiped out. He used a large cross-shaped weapon that burns opponents.  
   
 **The Indigo Elder**  
-An old man in a rain coat wielding a massive harpoon gun, he travels the Great Lake hunting for the Five Great Calamities in a small but extremely durable oar boat. His strength is exceptional, having felled the Marlin Whale by himself and even beating out a Big Brother of the Middle. He seeks to test the limits of the dangers of the Outskirts, and even the eldritch horrors beyond.
+An old man in a rain coat wielding a massive harpoon gun, he travels the Great Lake hunting for the Five Great Calamities in a small but extremely durable oar boat. His strength is exceptional, having felled the Marlin Whale by himself and even beating out a Big Brother of the Middle. He seeks to test the limits of the dangers of the Outskirts, and even the eldritch horrors beyond.\
+
+Jade Quilin (Green)
+Unknown
+
+Grass Maiden (Yellow)
+Unknown

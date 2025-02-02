@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/geography-and-politics/backstreets/"}
 ---
 
-The Backstreets are the areas of a [[Businesses and Organizations/Wings\|Wings]] [[Geography and Politics/District\|District]] that are not included in the [[Businesses and Organizations/Nests\|Nests]], outside of their protection — being the poverty-ridden areas of [[Geography and Politics/The City\|the City]].
+The Backstreets are the areas of a [[Businesses and Organizations/Wings\|Wings]] [[Geography and Politics/District\|District]] that are not included in the [[Businesses and Organizations/Nest\|Nest]], outside of their protection — being the poverty-ridden areas of [[Geography and Politics/The City\|the City]].
 
 Overview
 The residents are mostly people who cannot afford to live in the Nest, and are forced to fight for themselves in order to survive. It's not uncommon for unscrupulous hooligans to band together to form gangs known as [[Syndicates/Syndicate\|Syndicate]]s to rule over the Backstreets, as the [[Five Fingers\|Five Fingers]] — consisting of Star of the City-level Syndicates — wield enough power to allegedly rival the Wings.
