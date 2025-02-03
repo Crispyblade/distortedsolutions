@@ -12,24 +12,25 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 
 	Assassination: A group of "Fixers" have gone "rogue" from Hook "Office". Leader is named Kelly. Wipe out the group before they tarnish our reputation - 3000 Ahn
 	Bodyguard: A client needs escorting from work to home, 2000 Ahn
-	Strange Dreams: W Corp - People being dragged into a bathtub filled with blood and drowned - 3000 Ahn
-	
-	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 8000 Ahn
 	Syndicate Hunt - 4000 Ahn - Wipe out Hook Office for masquerading as fixers.
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
-	Distortion Hunt: A distortion has killed 600 people in X Corp by hugging them to death - 10,000 Ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
-		Strange Dreams - People in District N and X are having strange dreams - 7000 Ahn (Green children eating people)
+	Abnormality Hunt - 5000 Ahn - Today’s Shy Look
+	Abnormality Hunt - 5000 Ahn - Heart of Aspiration
+	Abnormality Hunt - 5000 Ahn - All-Around Helper
+	Abnormality Hunt - 5000 Ahn - Fragment of the Universe	
+
+
 
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
 	Bodyguard Jobs - 10,000 to 15,000 Ahn + Tips
 	Syndicate Hunt - Wipe out the Stray Dogs - 20,000 ahn
-	
+	Strange Dreams - People in District N and X are having strange dreams - 12000 Ahn (Green children eating people)
 	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 

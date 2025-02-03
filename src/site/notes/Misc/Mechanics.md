@@ -36,6 +36,7 @@ For people with talent skills
 Halve the cost when buying a skill level
 
 After Level 10
+Level 10-11 is 20 IP. Level 11-12 is 40 IP for example
 
 | Level     | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
 | --------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
