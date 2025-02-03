@@ -25,6 +25,11 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Abnormality Hunt - 5000 Ahn - Fragment of the Universe	
 	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital in M Corp. Deliver the patient to the hospital. 10,000 Ahn
 	Shi Association - Assassination - A group from the Kurokumo Clan has recently wiped out an orphanage after they failed to pay protection money. 10,000 Ahn to those who wipe out the group. 
+	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
+	Liu Association - A new squad from the Index has setup shop in District 12, 10,000 Ahn to those who wipe out the squad.
+	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
+
+
 
 
 
