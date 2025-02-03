@@ -91,7 +91,7 @@ Accuracy (x): x to all attack rolls
 
 Anti-Recovery(x): Cannot recover Hp for (x) turns. 
 
-Bind(x): Mov is lowered by x
+Bind(x): Reflex, dex, and move are reduced by x
 
 Blinded: Target cannot use any ability or or other maneuver which relies on sight, but is immune to effects which rely on the target seeing them.
 
