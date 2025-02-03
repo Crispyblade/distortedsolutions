@@ -23,7 +23,10 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Abnormality Hunt - 5000 Ahn - Heart of Aspiration
 	Abnormality Hunt - 5000 Ahn - All-Around Helper
 	Abnormality Hunt - 5000 Ahn - Fragment of the Universe	
-	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital. Deliver the patient to the hospital. 10,000 Ahn
+	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital in M Corp. Deliver the patient to the hospital. 10,000 Ahn
+	Shi Association - Assassination - A group from the Kurokumo Clan has recently wiped out an orphanage after they failed to pay protection money. 10,000 Ahn to those who wipe out the group. 
+
+
 
 
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
@@ -31,7 +34,7 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Bodyguard Jobs - 10,000 to 15,000 Ahn + Tips
 	Syndicate Hunt - Wipe out three of the Stray Dogs leaders - 20,000 ahn
 	Strange Dreams - People in District N and X are having strange dreams - 12000 Ahn (Green children eating people)
-	
+	Dieci Association - A tome describing combat tactics is believed to be found in the Outskirts, 20,000 Ahn to the ones who can find it. More details inside
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out the Church of Gears Leadership + 10 Church Members - 75,000 Ahn
