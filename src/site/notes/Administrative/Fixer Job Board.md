@@ -23,13 +23,13 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Abnormality Hunt - 5000 Ahn - Heart of Aspiration
 	Abnormality Hunt - 5000 Ahn - All-Around Helper
 	Abnormality Hunt - 5000 Ahn - Fragment of the Universe	
-
+	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital. Deliver the patient to the hospital. 10,000 Ahn
 
 
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
 	Bodyguard Jobs - 10,000 to 15,000 Ahn + Tips
-	Syndicate Hunt - Wipe out the Stray Dogs - 20,000 ahn
+	Syndicate Hunt - Wipe out three of the Stray Dogs leaders - 20,000 ahn
 	Strange Dreams - People in District N and X are having strange dreams - 12000 Ahn (Green children eating people)
 	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
