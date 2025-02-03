@@ -26,7 +26,7 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital in M Corp. Deliver the patient to the hospital. 10,000 Ahn
 	Shi Association - Assassination - A group from the Kurokumo Clan has recently wiped out an orphanage after they failed to pay protection money. 10,000 Ahn to those who wipe out the group. 
 	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
-	Liu Association - A new squad from the Index has setup shop in District 12, 10,000 Ahn to those who wipe out the squad.
+
 	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
 
 
@@ -51,7 +51,7 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 
 	Syndicate Hunt - Wipe out the Smiling Faces - 150,000 ahn
 	Strange Dreams - People in K Corp's Nest are having nightmares in a localized area. 100,000 ahn to the office that can solve this. First Class return trip Warp Train tickets provided
-	
+	Liu Association - A new squad from the Index has setup shop in District 12, 120,000 Ahn to those who wipe out the squad.
 	
 [[Star of the City\|Star of the City]] 150,000 to 500,000 [[Economy/Ahn\|Ahn]]
 
