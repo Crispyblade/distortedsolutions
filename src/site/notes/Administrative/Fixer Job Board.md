@@ -26,9 +26,9 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital in M Corp. Deliver the patient to the hospital. 10,000 Ahn
 	Shi Association - Assassination - A group from the Kurokumo Clan has recently wiped out an orphanage after they failed to pay protection money. 10,000 Ahn to those who wipe out the group. 
 	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
-
 	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
-
+	A resident in M Corp has been kidnapped by the Twinhook Pirates for ransom. Find the victim. -10,000 Ahn
+	
 
 
 
@@ -40,6 +40,7 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	Syndicate Hunt - Wipe out three of the Stray Dogs leaders - 20,000 ahn
 	Strange Dreams - People in District N and X are having strange dreams - 12000 Ahn (Green children eating people)
 	Dieci Association - A tome describing combat tactics is believed to be found in the Outskirts, 20,000 Ahn to the ones who can find it. More details inside
+	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out the Church of Gears Leadership + 10 Church Members - 75,000 Ahn
