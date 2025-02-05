@@ -14,16 +14,15 @@ Monthly Rent:
 
 Basic Food for employees:
 1000 ahn per person 
-2 Humans: 2000 ahn
-Mercer: 500 Ahn
+3 Humans: 3000 ahn
 Uta: 500 Ahn
 Vlad: 750 Ahn
 Eiri: 750 Ahn
 
 
 Total Expenses: 
-3750 Ahn + 4500 ahn + taxes
-8250 ahn per month + taxes
+3750 Ahn + 5000 ahn + taxes
+8750 ahn per month + taxes
 
 Fixer Suit: 1500 Ahn Fresh
 Repair: 500 Ahn and a few days at the cleaners

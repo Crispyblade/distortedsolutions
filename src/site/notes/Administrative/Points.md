@@ -8,3 +8,5 @@ Combat: 30
 Socializer: 40
 Explorer: 10
 Roleplayer: 40
+
+2/4/25

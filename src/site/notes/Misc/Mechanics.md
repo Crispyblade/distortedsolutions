@@ -91,7 +91,7 @@ Accuracy (x): x to all attack rolls
 
 Anti-Recovery(x): Cannot recover Hp for (x) turns. 
 
-Bind(x): Reflex, dex, and move are reduced by x
+Bind(x): Mov are reduced by x
 
 Blinded: Target cannot use any ability or or other maneuver which relies on sight, but is immune to effects which rely on the target seeing them.
 
@@ -113,7 +113,7 @@ Feeble(x): Reduce all attack rolls by (x), to a minimum of 1
 
 Fragile(x): Target takes (x) more hp damage from attacks, before resistances/weaknesses.
 
-Haste(x): Mov is enhanced by x
+Haste(x): Mov is enhanced by x, eva
 
 Immobilize(x): One square counts as 2 Mov, sprinting is unavailable for x turns
 
