@@ -9,6 +9,23 @@ One Perk
 One Ability
 Ten Improvement Points
 
+![Pasted image 20250204221607.png](/img/user/Pasted%20image%2020250204221607.png)
+
+Fortitude: Tied to Body and Will.
+Prudence: Tied to Ref, Int, and Tech.
+Temperance: Tied to Dex, Cool, Luck, Emp
+Justice: Tied to Will and Move.
+For calculating perk and ability reqs: Take the values for each stat and average them. Then compare with the table below
+
+For example with Fortitude
+10 Fortitude + 10 Will = 20 / 2 = 10 Fortitude
+
+| Stat       | 1   | 2    | 3     | 4     | 5     | 6     |
+| ---------- | --- | ---- | ----- | ----- | ----- | ----- |
+| Fortitude  | 0-5 | 6-10 | 11-15 | 15-19 | 20-24 | 25-30 |
+| Prudence   | 0-5 | 6-10 | 11-15 | 15-19 | 20-24 | 25-30 |
+| Temperance | 0-5 | 6-10 | 11-15 | 15-19 | 20-24 | 25-30 |
+| Justice    | 0-5 | 6-10 | 11-15 | 15-19 | 20-24 | 25-30 |
 
 
 AUGMENTS
@@ -63,13 +80,17 @@ At the start of the round, the abnormality declares their targets. A person with
 
 Damage Types:
 Physical
-Bleed: Ignores armor, has to deal damage with physical first
-Example: A rat stabs you for 6 physical damage, and 5 bleed damage. Take 5
+Bleed(x): On a person's turn after being inflicted by bleed, if that character moves, attacks, or does anything other than stand still they receive damage directly to their HP equal to x. Each movement or attack causes bleed damage to occur. Every time bleed damage occurs, the stack is halved. If the character does nothing, the bleed stack is halved.
 
-Burn: Initially is ablated by armor, after all burn damage taken after armor ablates is given as burn tokens. At the end of the round, take damage equal to all burn tokens directly to your health, then half the stack. You can use your action to put it out, removing all burn tokens. After receiving burn damage, half the damage is given as tokens
+Burn(x): At the end of a person's turn after being inflicted with burn, take damage equal to x, and remove all burn. A person can use their action to put out the burn instead. Burn ignores armor, protection, resistances, and weaknesses
 
-Sinking(x): The next time the character is hit, they take typeless sanity damage equal to sinking stacks, then remove all stacks of sinking. Sanity for the sake of this game, for every bit of sanity damage you lose 1 to attack rolls
-For example at -2 sanity you take a -2 to attack rolls. Healed after fight
+Sinking(x): The next time the character is hit, they take typeless sanity damage equal to sinking stacks, then remove all stacks of sinking. Sanity for the sake of this game, is dealt to your humanity stat. Units with no humanity will instead take bonus damage equal to the humanity that would be lost, such as abnormalities. Sinking ignores armor, protection, resistances, and weaknesses
+At 30 humanity, all dice power is reduced by 1, and the victim takes 2 fragile tokens.
+At 20 humanity, all dice power is reduced by 3, and the victim takes 5 fragile tokens.
+At 10 humanity, all dice power is reduced by 6, and the victime takes 6 fragile tokens. Additionally, there is a 50% chance the victim will skip their turn.
+At 0 humanity, the victim will become staggered. After recovering they will be reset to 40 humanity. 
+
+Rupture(x): The next time the character is hit, they take typeless hp damage equal to rupture stacks, then remove all stacks of rupture. Rupture ignores armor, protection, resistances, and weaknesses
 
 Smoke(x): Stacks up to 10. You take x more damage from physical attacks. All dice gain +1 power at 9 or more smoke. Lose 1 smoke at the end of the turn. (There are perks to negate the extra damage taken from smoke)
 
@@ -125,13 +146,12 @@ Powernull: Target is unaffected by power-related effects until the end of their 
 Powernull can also apply to individual abilities, maneuvers, or dice. When powernulled, a die only rolls the base value and dice on the ability plus the dice from the user’s weapon’s dice.
 	Whenever something mentions being “Nullified” then this effect is used.
 
-Poise: When attacking roll a d20. If you roll under your poise count, this attack does double damage.
+Poise: When attacking roll a d20. If you roll under your poise count, this attack does 20% more damage. Poise decreases by one on a critical hit and one on turn end.
 
 Protection(x): Target takes (x) less physical damage from attacks, before resistances or weaknesses.
 
 Resilience(x): The character can prevent (x) instances of status effects being inflicted on them. 1 stack is consumed per stack of status inflicted and the character with resilience can decide whether or not to spend a stack when inflicted with a status effect.
 
-Rupture(x): The next time the character is hit, they take typeless hp damage equal to rupture stacks, then remove all stacks of rupture.
 
 Sanity Fragile(x): Target takes (x) more sanity damage from attacks, before resistances/weaknesses.
 
