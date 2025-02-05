@@ -15,7 +15,6 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 8000 Ahn
-	Syndicate Hunt - 4000 Ahn - Wipe out Hook Office for masquerading as fixers.
 	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head

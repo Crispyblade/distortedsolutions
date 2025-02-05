@@ -11,10 +11,10 @@ Due to their larger structure, Associations are able to cover more ground with t
   
 A President is the head of an Association, this is split into several Branches that oversee the different parts of the City: North, South, East, and West. These are run by a Branch Manager, while a General Manager directly oversees all branches. these are further divided into Sections, which is run by a Director. Sections are ranked from 6-1, 6 being the lowest recruits and 1 being the highest ranking Fixers. Sections 6 and 5 typically have lower quality clothing and armor than those of 4 and above.  
   
-There are currently 12 Associations, which are managed by the [[Hana Association\|Hana Association]], and they all have different uniforms, rules, and specializations in their line of work.
+There are currently 12 Associations, which are managed by the [[Businesses and Organizations/Hana Association\|Hana Association]], and they all have different uniforms, rules, and specializations in their line of work.
 
 List of Known Associations
-[[Hana Association\|Hana Association]]:
+[[Businesses and Organizations/Hana Association\|Hana Association]]:
 [[Fixers/Offices/Zwei Association\|Zwei Association]]
 [[Tres Association\|Tres Association]]
 [[Shi Association\|Shi Association]]

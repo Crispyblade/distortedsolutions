@@ -10,3 +10,8 @@ Explorer: 10
 Roleplayer: 40
 
 2/4/25
+Group: 30
+Combat: 30
+Socializer: 10
+Explorer: 10
+Roleplayer: 20
