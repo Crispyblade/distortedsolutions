@@ -4,6 +4,8 @@
 
 "The whole market’s a red ocean. Everyone wants to be a Fixer" -Roland
 
+"A Fixer must maintain a head clear of corruption, speech free of deceit, and conduct guided by clemency. Show courage in adventure, and bear pain in suffering. And pray, forget not the mercy for the downtrodden, and last but not least, pursue your dream, even if it means wagering your life in the chase" - Unknown
+
 Fixers are contract mercenaries, mostly a demand in the Backstreets, due to the high mortality rate and crime, though they appear in the Nests too. Fixers often work as security for Corps, intel-gatherers, and hitmen.  
   
 Fixers work by signing contracts with their clients, this is proof of the deed done so that [[Fixers/Associations\|Associations]] or [[Fixers/Offices\|Offices]] can confirm that you did the work. Otherwise you won't get paid for it, completed contracts means more recognition for a Fixer's career, which will rise them through the ranks.  
