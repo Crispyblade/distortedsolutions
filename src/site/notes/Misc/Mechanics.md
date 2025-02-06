@@ -14,7 +14,7 @@ Ten Improvement Points
 Fortitude: Tied to Body and Will.
 Prudence: Tied to Ref, Int, and Tech.
 Temperance: Tied to Dex, Cool, Luck, Emp
-Justice: Tied to Will and Move.
+Justice: Tied to Will, Emp, and Move.
 For calculating perk and ability reqs: Take the values for each stat and average them. Then compare with the table below
 
 For example with Fortitude
