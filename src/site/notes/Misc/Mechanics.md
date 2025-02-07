@@ -88,7 +88,21 @@ Sinking(x): The next time the character is hit, they take typeless sanity damage
 At 30 humanity, all dice power is reduced by 1, and the victim takes 2 fragile tokens.
 At 20 humanity, all dice power is reduced by 3, and the victim takes 5 fragile tokens.
 At 10 humanity, all dice power is reduced by 6, and the victime takes 6 fragile tokens. Additionally, there is a 50% chance the victim will skip their turn.
-At 0 humanity, the victim will become staggered. After recovering they will be reset to 40 humanity. 
+At 0 humanity, the victim will panic. After recovering (after a turn of not taking sinking damage) they will be reset to 40 humanity. 
+
+Panic Types:
+Changes based on highest stat
+Fortitude:
+Murder - The victim attacks the nearest creature to them at time of panic (roll a dice if there are multiple). The attacker also gains a +2 to damage and a +2 to accuracy.
+
+Prudence:
+Suicide - The victim attacks themselves with a basic weapon (auto hits).
+
+Temperance:
+Wander - The victim must use their full movement to run away from all characters on the map
+
+Justice:
+Shutdown - If fighting an abnormality or distortion, the character assists the abno or distortion in their goals. Otherwise, same panic type as Murder
 
 Rupture(x): The next time the character is hit, they take typeless hp damage equal to rupture stacks, then remove all stacks of rupture. Rupture ignores armor, protection, resistances, and weaknesses
 
