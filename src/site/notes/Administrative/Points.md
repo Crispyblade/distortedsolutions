@@ -15,3 +15,6 @@ Combat: 30
 Socializer: 10
 Explorer: 10
 Roleplayer: 20
+
+
+Total Accumulated per player: 110
