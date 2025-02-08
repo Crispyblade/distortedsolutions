@@ -87,7 +87,7 @@ Burn(x): At the end of a person's turn after being inflicted with burn, take dam
 Sinking(x): The next time the character is hit, they take typeless sanity damage equal to sinking stacks, then remove all stacks of sinking. Sanity for the sake of this game, is dealt to your humanity stat. Units with no humanity will instead take bonus damage equal to the humanity that would be lost, such as abnormalities. Sinking ignores armor, protection, resistances, and weaknesses
 At 30 humanity, all dice power is reduced by 1, and the victim takes 2 fragile tokens.
 At 20 humanity, all dice power is reduced by 3, and the victim takes 5 fragile tokens.
-At 10 humanity, all dice power is reduced by 6, and the victime takes 6 fragile tokens. Additionally, there is a 50% chance the victim will skip their turn.
+At 10 humanity, all dice power is reduced by 6, and the victim takes 6 fragile tokens. Additionally, there is a 50% chance the victim will skip their turn.
 At 0 humanity, the victim will panic. After recovering (after a turn of not taking sinking damage) they will be reset to 40 humanity. 
 
 Panic Types:
