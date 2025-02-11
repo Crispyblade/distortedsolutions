@@ -10,8 +10,6 @@ Note: These are not all jobs in the city at once, these are implied to be jobs y
 	
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
 
-	Assassination: A group of "Fixers" have gone "rogue" from Hook "Office". Leader is named Kelly. Wipe out the group before they tarnish our reputation - 3000 Ahn
-	Bodyguard: A client needs escorting from work to home, 2000 Ahn
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 8000 Ahn

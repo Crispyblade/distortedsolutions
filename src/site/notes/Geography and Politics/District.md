@@ -48,7 +48,7 @@ N Corp has a set number of 14 Taboos, those that violate these rules are hunted 
   
 **District 15:** Owned by O Corp. Had the "Balloon People" case which was handled by Detective Moses.  
   
-**District 16:** Owned by P Corp. Had the "Secret of the Demi-glace Sauce" Incident.  
+**District 16:** Owned by [[Businesses and Organizations/P Corp\|P Corp]]. Had the "Secret of the Demi-glace Sauce" Incident.  
   
 **District 17:** Owned by Q Corp. The place where Roland grew up.  
   

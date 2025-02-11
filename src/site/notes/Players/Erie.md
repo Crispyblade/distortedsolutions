@@ -18,3 +18,6 @@ Has a regular diet.
 Becoming a fixer
 I feel like Erie did it entirely because Mercer was also doing it and it seemed like an easy way to find blood that wasn't just eviscerating the poor people population around the district
 I mean Erie would explain its either that or baiting rats into attacking her because bloodbags freak her out and based on how these things typically go she probably made one by accident and it freaked both her and mercer out a little prior to becoming fixers
+
+it's just a weird arrow and she can make a hard blood bow, it's probably something from when she got turned and just doesn't remember just that its important somehow.
+Arrow is from [[Monsters/Bloodfiend\|Bloodfiend]] Hunters, might be Atelier Logic
