@@ -65,7 +65,7 @@ Job Types
 
 	What up? We're three cool guys who are looking for other cool guys who want to hang out in our party mansion in T Corp. Nothing sexual. Dudes in good shape encouraged. If you're fat, you should be able to find humor in the little things. Again, nothing sexual. Transportation will be provided if needed. (This is most likely not a trap as it was posted officialy via contract by an established family. Most likely an attempt to get their kids some socialization) - 25,000 Ahn
 	
-	URGENT: It is my little pookums birthday and the entertainment cancelled! Anyone may apply as replacements at the magistrates estate. 25,000 Ahn ("Pookums is a very Distortion that for some reason remains "mostly" nonviolent.)
+	URGENT: It is my little pookums birthday and the entertainment cancelled! Anyone may apply as replacements at the magistrates estate. 25,000 Ahn ("Pookums is a very large Distortion that for some reason remains "mostly" nonviolent.)
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out the Church of Gears Leadership + 10 Church Members - 75,000 Ahn
