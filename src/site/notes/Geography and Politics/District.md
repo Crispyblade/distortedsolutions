@@ -60,7 +60,7 @@ N Corp has a set number of 14 Taboos, those that violate these rules are hunted 
   
 **District 22:** Owned by V Corp. Where the Stray Dogs Syndicate resides. It was also the location of the "Crying Children" Incident, wiping out 80,000 of the Nest's residents.  
   
-**District 23:** Owned by [[Businesses and Organizations/W Corp\|W Corp]]. Known as the "Streets of Flavor". A place filled with chefs and culinary connoisseurs, they strive to serve the perfect tasting dishes through any means necessary. A group known as the "Eight Chefs" decreed that human flesh was the main ingredient for this "perfect dish", as a result, cannibalism is a commonly accepted custom in the backstreets of District 23.
+**District 23:** Owned by [[Businesses and Organizations/W Corp\|W Corp]]. Known as the "Streets of Flavor". A place filled with chefs and culinary connoisseurs, they strive to serve the perfect tasting dishes through any means necessary. A group known as the "[[Cannibalism\|Cannibalism]]" decreed that human flesh was the main ingredient for this "perfect dish", as a result, cannibalism is a commonly accepted custom in the backstreets of District 23.
 
 District 23's brutal environment has earned it a rather infamous reputation among city-folk. If a person is accustomed to grisly sights, it's likely their from District 23.
 

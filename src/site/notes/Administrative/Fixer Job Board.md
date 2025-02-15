@@ -34,13 +34,12 @@ Job Types
 	Cat rescue - 1000 Ahn
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
 	Dieci - Help out out an orphanage, 200 Ahn a day per person, 5 days a week.
-	Rat Extermination - House is overrun with rats. 
-	Rat Extermination - House is overrun with Rats. 
+	Rat Extermination - House is overrun with rats - 1000 Ahn
+	Rat Extermination - House is overrun with Rats - 3000 Ahn
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 8000 Ahn
-	Strange Dreams - People in District 23 are having nightmares in a localized area. 10,000 ahn to the office that can solve this.
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
 	Abnormality Hunt - 5000 Ahn - Today’s Shy Look

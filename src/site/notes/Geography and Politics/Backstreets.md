@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/geography-and-politics/backstreets/"}
 ---
 
+"If you meet a polite and well mannered person in the Backstreets, run for your life" - Roland
+
 The Backstreets are the areas of a [[Businesses and Organizations/Wings\|Wings]] [[Geography and Politics/District\|District]] that are not included in the [[Businesses and Organizations/Nest\|Nest]], outside of their protection — being the poverty-ridden areas of [[Geography and Politics/The City\|the City]].
 
 Overview
