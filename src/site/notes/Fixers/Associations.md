@@ -18,7 +18,7 @@ List of Known Associations
 [[Fixers/Offices/Zwei Association\|Zwei Association]]
 [[Tres Association\|Tres Association]]
 [[Shi Association\|Shi Association]]
-[[Cinq Association\|Cinq Association]]
+[[Fixers/Offices/Cinq Association\|Cinq Association]]
 [[Liu Association\|Liu Association]]
 [[Seven Association\|Seven Association]]
 [[Fixers/Offices/Öufi Association\|Öufi Association]]
