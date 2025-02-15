@@ -12,5 +12,5 @@ HamHamPangPang is a sandwich franchise originating from [[Geography and Politics
 | **Hampang Sand**             | The Ham Pang Sandwich, the essence of sandwiches, with a harmonious blend of chicken bread ham, Canadian ham, smoked ham, and daily divine vegetables! | 5,500     |
 | **Chili Tuna Sandwich**      | Chili Tuna Sandwich with tuna tossed in a sweet and spicy sauce with chopped onions in cornbread!                                                      | 6,000     |
 | **Mustard Chicken Sandwich** | A new mustard chicken sandwich created with Hamham Pang Pang’s original special mustard sauce and chicken breast on rye bread!                         | 6,000     |
-![Pasted image 20250131122901.png](/img/user/Pasted%20image%2020250131122901.png)
-![Pasted image 20250131122915.png](/img/user/Pasted%20image%2020250131122915.png)
+![Pasted image 20250131122901.png](/img/user/Images/Pasted%20image%2020250131122901.png)
+![Pasted image 20250131122915.png](/img/user/Images/Pasted%20image%2020250131122915.png)

@@ -9,7 +9,7 @@ One Perk
 One Ability
 Ten Improvement Points
 
-![Pasted image 20250204221607.png](/img/user/Pasted%20image%2020250204221607.png)
+![Pasted image 20250204221607.png](/img/user/Images/Pasted%20image%2020250204221607.png)
 
 Fortitude: Tied to Body and Will.
 Prudence: Tied to Ref, Int, and Tech.

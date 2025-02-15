@@ -4,12 +4,35 @@
 
 Note: These are not all jobs in the city at once, these are implied to be jobs you *could* have gotten due to someone walking into your office.
 
+
+Job Types
+
+	Cat rescue - The most basic of basic, most fixers start off with these jobs.
+	
+	Training Jobs - Friendly spar with a Fixer Office, most of the time this is for a stronger office to practice moves / teamwork on a weaker office
+	
+	Syndicate Hunt - Sometimes a Syndicate steps out of line or kills someone who had people wealthy enough to afford a contract.
+	
+	Association Jobs:
+		Hana: Overseeing Fixer Offices / rankup exams
+		Zwei: Bodyguard, civil protection and peacekeeping
+		Tres: Workshop managing and creating weapons
+		Shi: Assassination
+		Cing: One on one duels typically
+		Liu:Group Combat (basically a small squad vs an entire syndicate or security force)
+		Seven: Law enforcement, detective work
+		Eight: Monster Hunting, Outskirt / Ruin Exploration, Bounty Hunting
+		Devyat Association - Specializes in delivery and transportation, courier work
+		Dieci: Knowledge and Reearch. "Charity Jobs"
+		Oufi: Overseeling deals and trades among factions, killing contract breakers
+		
+
+
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
 
 	Cat rescue - 1000 Ahn
-	
 	Training Jobs - Friendly spar with a Fixer Office - 250 Ahn per person
-
+	Dieci - Help out out an orphanage, 200 Ahn a day per person, 5 days a week.
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out Pierre's Bistro - 8000 Ahn
