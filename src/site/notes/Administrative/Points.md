@@ -16,5 +16,12 @@ Socializer: 10
 Explorer: 10
 Roleplayer: 20
 
+2/15/25
+Group: 30
+Combat:  30 
+Socializer: 40
+Explorer: 20 
+Roleplayer: 30
 
-Total Accumulated per player: 110
+
+Total Accumulated per player: 150

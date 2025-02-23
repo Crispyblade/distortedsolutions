@@ -23,7 +23,7 @@ Job Types
 		Seven: Law enforcement, detective work, coffee and tea shop management
 		Eight: Monster Hunting, Outskirt / Ruin Exploration, Bounty Hunting
 		Devyat Association - Specializes in delivery and transportation, courier work
-		Dieci: Knowledge and Reearch. "Charity Jobs"
+		Dieci: Knowledge and Research. "Charity Jobs"
 		Oufi: Overseeling deals and trades among factions, killing contract breakers
 		
 
@@ -36,6 +36,8 @@ Job Types
 	Dieci - Help out out an orphanage, 200 Ahn a day per person, 5 days a week.
 	Rat Extermination - House is overrun with rats - 1000 Ahn
 	Rat Extermination - House is overrun with Rats - 3000 Ahn
+	Tres Test Run "Field-test a prototype 'nonlethal' tranquilizer gun. 2,000 Ahn
+	Courier’s Gambit: "Deliver a letter to a Smoke War veteran. He’s ‘a bit paranoid." 3,000 Ahn
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
@@ -51,6 +53,7 @@ Job Types
 	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
 	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
 	A resident in M Corp has been kidnapped by the Twinhook Pirates for ransom. Find the victim. -10,000 Ahn
+	Oufi Mediation: Negotiate a truce between two noodle cart gangs in District 19.
 	
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
@@ -59,6 +62,8 @@ Job Types
 	Strange Dreams - People in District N and X are having strange dreams - 12000 Ahn (Green children eating people)
 	Dieci Association - A tome describing combat tactics is believed to be found in the Outskirts, 20,000 Ahn to the ones who can find it. More details inside
 	Eight Association - A pack of monsters has setup shop on one of our supply lines in the outskirts, 25,000 Ahn to anyone who clears it out. 
+	Zwei Escort - Escort a Limbus Company through district 23. 15,000 Ahn + "discount coupons"
+	Liu - Hold a checkpoint in district 24 until dawn. 25,000 Ahn
 
 
 
