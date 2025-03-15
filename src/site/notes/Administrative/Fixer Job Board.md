@@ -27,16 +27,17 @@ Job Types
 		Oufi: Overseeling deals and trades among factions, killing contract breakers
 		
 
- Library Jobs
+ Library Jobs (Final One has to be done last)
 
 	Floor of General Works
-		Bloodbath
+		Bloodbath - Clear
 		Heart of Aspiration
 		Pinochio
 		The Snow Queen
+		The Silent Girl
 	Floor of History
-		Scorched Girl
-		Happy Teddy Bear
+		Scorched Girl - Clear
+		Happy Teddy Bear - Clear
 		Fairy Festival
 		Queen Bee
 		Snow White's Apple
@@ -74,7 +75,7 @@ Job Types
 		Suppress Oz: (Comes with a note) "Hello dear guests, we have not met but I was asked to personally send out this contract by Angela. I am Chesed, head librarian of the floor of Social Sciences. My floor contains books pertaining to fairy tales and as the name suggests, how people and fiction interact with the real world. As im sure you are aware, the abnormalities we contain in the books have begun to "leak out". Currently this is mostly harmless, but im afraid the abnormalities contained on my floor have been a bit, problematic. Specifically people have been "stuck" in their dreams as ive been told. Ive attached more details to this letter, if you could suppress these abnormalities im sure Angela would reward you quite handsomly. I also provide excellent imported coffee and make a great conversationlist if that proves enticing. Sincerely - Chesed
 	Floor of Philosophy:
 		Big Bird
-		Punishing Bird
+		Punishing Bird - Clear
 		Judgement Bird
 		... Bird
 	Floor of Religion:
@@ -117,9 +118,7 @@ Message Low-Fat Milk
 	Eight Association - A pack of monsters has setup shop on one of our supply lines in the outskirts, 25,000 Ahn to anyone who clears it out. 
 	Zwei Escort - Escort a Limbus Company through district 23. 15,000 Ahn + "discount coupons"
 	Liu - Hold a checkpoint in district 24 until dawn. 25,000 Ahn
-
-
-
+	
 	What up? We're three cool guys who are looking for other cool guys who want to hang out in our party mansion in T Corp. Nothing sexual. Dudes in good shape encouraged. If you're fat, you should be able to find humor in the little things. Again, nothing sexual. Transportation will be provided if needed. (This is most likely not a trap as it was posted officialy via contract by an established family. Most likely an attempt to get their kids some socialization) - 25,000 Ahn
 	
 	URGENT: It is my little pookums birthday and the entertainment cancelled! Anyone may apply as replacements at the magistrates estate. 25,000 Ahn ("Pookums is a very large Distortion that for some reason remains "mostly" nonviolent.)
