@@ -41,7 +41,6 @@ Job Types
 	
 [[Urban Myth\|Urban Myth]] 3,000 to 10,000 [[Economy/Ahn\|Ahn]]
 
-	Wipe out Pierre's Bistro - 8000 Ahn
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
 	Abnormality Hunt - 5000 Ahn - Today’s Shy Look
