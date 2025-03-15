@@ -27,8 +27,66 @@ Job Types
 		Oufi: Overseeling deals and trades among factions, killing contract breakers
 		
 
+ Library Jobs
 
+	Floor of General Works
+		Bloodbath
+		Heart of Aspiration
+		Pinochio
+		The Snow Queen
+	Floor of History
+		Scorched Girl
+		Happy Teddy Bear
+		Fairy Festival
+		Queen Bee
+		Snow White's Apple
+	Floor of Technological Science
+		Forsaken Murderer
+		All-Around Helper
+		Singing Machine
+		The Funeral of the dead Butterflies
+		Der Freishutz
+	Floor of Literature
+		Today's Shy Look
+		Red Shoes
+		Spider Bud
+		Laetitia
+		Dream of a black Swan
+	Floor of Art:
+		Fragment of the Universe
+		Child of the Galaxy
+		Proccubus
+		Alriune
+		The Silent Orchestra
+	Floor of Natural Sciences
+		The Queen of Hatred
+		The Knight of Despair
+		The King of Greed
+		The Servant of Wrath
+		The Jester of Nihil
+	Floor of Language:
+		Little Red Riding Hooded Mercenary
+		Big and Will be Bad Wolf
+		Mountain of Smiling Bodies
+		Nosferatu
+		Nothing There
+	Floor of Social Sciences:
+		Suppress Oz: (Comes with a note) "Hello dear guests, we have not met but I was asked to personally send out this contract by Angela. I am Chesed, head librarian of the floor of Social Sciences. My floor contains books pertaining to fairy tales and as the name suggests, how people and fiction interact with the real world. As im sure you are aware, the abnormalities we contain in the books have begun to "leak out". Currently this is mostly harmless, but im afraid the abnormalities contained on my floor have been a bit, problematic. Specifically people have been "stuck" in their dreams as ive been told. Ive attached more details to this letter, if you could suppress these abnormalities im sure Angela would reward you quite handsomly. I also provide excellent imported coffee and make a great conversationlist if that proves enticing. Sincerely - Chesed
+	Floor of Philosophy:
+		Big Bird
+		Punishing Bird
+		Judgement Bird
+		... Bird
+	Floor of Religion:
+		Burrowing Heaven
+		The Price of Silence
+		Blue Star
+		White Night
+    
 
+Message Low-Fat Milk
+
+	
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
 
 	Cat rescue - 1000 Ahn
@@ -43,16 +101,12 @@ Job Types
 
 	Syndicate Hunt - Wipe out the Brotherhood of Iron - 3000 ahn
 	Strange Dreams - District J - 5000 ahn - Man killing people with a metal head
-	Abnormality Hunt - 5000 Ahn - Today’s Shy Look
-	Abnormality Hunt - 5000 Ahn - Heart of Aspiration
-	Abnormality Hunt - 5000 Ahn - All-Around Helper
-	Abnormality Hunt - 5000 Ahn - Fragment of the Universe	
 	Öufi Association - A family in District 13 has violated a contract by refusing to deliver a member to a primary care hospital in M Corp. Deliver the patient to the hospital. 10,000 Ahn
 	Shi Association - Assassination - A group from the Kurokumo Clan has recently wiped out an orphanage after they failed to pay protection money. 10,000 Ahn to those who wipe out the group. 
 	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
 	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
 	A resident in M Corp has been kidnapped by the Twinhook Pirates for ransom. Find the victim. -10,000 Ahn
-	Oufi Mediation: Negotiate a truce between two noodle cart gangs in District 19.
+	Oufi Mediation: Negotiate a truce between two noodle cart gangs in District 19 -10,000 Ahn.
 	
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
