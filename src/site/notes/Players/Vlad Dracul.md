@@ -7,7 +7,7 @@ Is a [[Monsters/Bloodfiend\|Bloodfiend]]
 
 "Just because he's from a nest doesn't mean he ever felt like doing this type of work until recently. I feel like he had a pretty cushy easy life until now. Until he lost Lyza..."
 
-Vlad cares about most is [[Lyza\|Lyza]]. She allegedly died 40 years ago but he can't really accept it. The only thing really keeping him going and knowingly being a blight on mankind is the hope to find her reincarnation or something. He doesn't necessarily believe in reincarnation, but he hopes
+Vlad cares about most is [[Characters/Lyza\|Lyza]]. She allegedly died 40 years ago but he can't really accept it. The only thing really keeping him going and knowingly being a blight on mankind is the hope to find her reincarnation or something. He doesn't necessarily believe in reincarnation, but he hopes
 
 As for Lyza, you can do what you want with her. I have an idea for her as a backup character, but if you think of something else, go for it.
 
@@ -15,7 +15,7 @@ Vampire Prince falls in love with a woman fated to be turned into a blood bag, r
 
 Family:
 I'm thinking they might not know who Dracula actually was. The pop culture icon at least, but they got his fashion and mannerisms from somewhere. It's very common for them to lure an unsuspecting human into their dwelling before consuming them or blood bagging them.
-They also have a few peculiar behaviors. A few include, sleeping in coffins, abstaining from alcohol, and the higher ups even keep pet bats. More bats probably means you're more important
+
 
 I think instead of the kings, the clan might officially be called [[Businesses and Organizations/The Counts\|The Counts]]. Unless that's too on the nose
 
