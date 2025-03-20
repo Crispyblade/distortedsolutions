@@ -15,3 +15,7 @@ Claimed to have been trapped in a facility and given diseases. Also starved for 
 
 Becoming a fixer
 Free food without getting in any sort of trouble
+
+it would be very cool if Mercer was the one who forced Uta into distortion
+
+her parents sold her to mercer and he sold her to R corp

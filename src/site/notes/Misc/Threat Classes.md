@@ -15,7 +15,7 @@ Urban Plague: Threats that have influence in more than a few Districts, the mere
 
 Urban Nightmare: This threat class is capable of affecting nearly every District, whether it be Nest or Backstreets. Their removal is of the highest priority, and even the Wings will send their best.
 
-Star of the City: These are usually the most dangerous and powerful threats to threaten City Society. Color Fixers and the Hana Association are typically the first to be sent after these, as they have the skill and expertise to handle them.
+Star of the City: These are usually the most dangerous and powerful threats to threaten City Society. Color Fixers and the Hana Association are typically the first to be sent after these, as they have the skill and expertise to handle them. The easiest way for a threat to become a Star is to kill an important person, like a Corp researcher or higherup.
 
 Stars of the City are often seen as something that the lowly citizens and dredges aspire to be, not to become exactly like them per say, rather to reach that same level of recognition, fear, and respect. It's the main reason the Head does not go to wipe every Star out, as they accept these aspirations. Even though many Stars are felled, there will always be more to rise.
 
