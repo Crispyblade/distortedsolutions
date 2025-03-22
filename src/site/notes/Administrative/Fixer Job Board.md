@@ -26,7 +26,6 @@ Fixer Job Types
 		Dieci: Knowledge and Research. "Charity Jobs"
 		Oufi: Overseeling deals and trades among factions, killing contract breakers
 
- 
 
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
 
