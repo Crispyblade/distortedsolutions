@@ -4,8 +4,8 @@
 
 Note: These are not all jobs in the city at once, these are implied to be jobs you *could* have gotten due to someone walking into your office.
 
-
-Job Types
+[[Administrative/Library Jobs\|Library Jobs]]
+Fixer Job Types
 
 	Cat rescue - The most basic of basic, most fixers start off with these jobs.
 	
@@ -26,9 +26,6 @@ Job Types
 		Dieci: Knowledge and Research. "Charity Jobs"
 		Oufi: Overseeling deals and trades among factions, killing contract breakers
 
-
-
- [[Administrative/Library Jobs\|Library Jobs]]
  
 
 [[Canard\|Canard]] 1,000 to 3,000 [[Economy/Ahn\|Ahn]]
