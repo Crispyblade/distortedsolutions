@@ -23,7 +23,7 @@ Additionally, Bloodfiends have an intense irrational fear of water. The liquid i
 
 **A Bloodfiend can only ever create two Kindreds**. Anything else beyond that would presumably result in a [[Monsters/Bloodbag\|Bloodbag]]. 
 
-Filiel Impiety is treated the same as a Bloodfiend's fear of water, going against a higher up feels "wrong" and is usually impossible. The higher up the bloodstream the more powerful a bloodfiend is.
+Filiel Impiety is treated the same as a Bloodfiend's fear of water, going against a higher up feels "wrong" and is usually impossible. The higher up the bloodstream the more powerful a bloodfiend is. Even the idea of rebelling against one's parents is met with revulsion, terrifying and unnatural.
 ![Pasted image 20250319231846.png](/img/user/Pasted%20image%2020250319231846.png)
 
 [[History and Myths/Truth of the Bloodfiend Disease\|Truth of the Bloodfiend Disease]] (BANNED)
@@ -37,4 +37,5 @@ Bloodfiends must lie in secrecy or be risked a visit by hunters, such as [[Fixer
 Known Bloodfiend Families:
 La Manchaland
 [[Businesses and Organizations/The Counts\|The Counts]]
+[[Businesses and Organizations/B Corp\|B Corp]] has an elder Bloodfiend
 ![Pasted image 20250228181101.png](/img/user/Pasted%20image%2020250228181101.png)
