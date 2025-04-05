@@ -33,3 +33,13 @@ Explorer: 60
 Roleplayer: 50
 
 220
+
+
+4/5/25
+Group: 50
+Warrior: 30 
+Socializer: 60 
+Explorer: 50 
+Roleplayer: 70
+
+260

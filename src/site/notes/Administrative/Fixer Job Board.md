@@ -45,7 +45,6 @@ Fixer Job Types
 	Cinq Association - A noble in District 20 has had his honor spat on and requests a single fixer to duel the individual. No deaths. 10,000 Ahn
 	Seven Association - A serial killer in K Corp has killed 60 Nest Workers. All workers are missing their left eyes. 10,000 Ahn 
 	A resident in M Corp has been kidnapped by the Twinhook Pirates for ransom. Find the victim. -10,000 Ahn
-	Oufi Mediation: Negotiate a truce between two noodle cart gangs in District 19 -25,000 Ahn.
 	
 [[Urban Legend\|Urban Legend]] 10,000 to 25,000 [[Economy/Ahn\|Ahn]]
 
@@ -57,7 +56,7 @@ Fixer Job Types
 	Zwei Escort - Escort a Limbus Company through district 23. 15,000 Ahn + "discount coupons"
 	Liu - Hold a checkpoint in district 24 until dawn. 25,000 Ahn
 	
-	URGENT: It is my little pookums birthday and the entertainment cancelled! Anyone may apply as replacements at the magistrates estate. 25,000 Ahn ("Pookums is a very large Distortion that for some reason remains "mostly" nonviolent.)
+
 	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
@@ -68,6 +67,7 @@ Fixer Job Types
 	Syndicate Hunt: Wipe out "The Arbiters" - a syndicate of people who dress up in "judge" robes and setup shop in unlawful areas of the backstreets.  75,000 Ahn
 	Syndicate Hunt: Wipe out the carnival - 50,000 Ahn
 	Bloodfiend Hunt: A pack of bloodfiends from "The Kings" have recently turned a few vacationers of J Corp into bloodbags. Kill those responsible. 75,000 Ahn
+
 [[Urban Nightmare\|Urban Nightmare]] 75,000 to 150,000 [[Economy/Ahn\|Ahn]]
 
 	Syndicate Hunt - Wipe out the Smiling Faces - 150,000 ahn

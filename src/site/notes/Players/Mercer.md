@@ -17,3 +17,10 @@ Does not expel any intake. (Possibly used to sustain and grow current form)
 Can physically alter themselves but has not done so to a degree where they will need to adapt yet.
 
 
+Protect Eirie initially
+Protect everyone
+
+Figure out memories
+Deal with his family
+
+Fixer: Stopped from being hunted

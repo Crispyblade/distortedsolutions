@@ -24,7 +24,7 @@ The Hana [[Fixers/Associations\|Associations]] will then send an approval to you
 
 After Grade 1 some fixers have elevated themselves to the rank of [[Fixers/Colors\|Colors]]
 
-[[Fixers/Hana Association\|Hana Association]] is in charge of all Fixer clerical affairs and are the ones who assign [[Fixers/Colors\|Colors]]
+[[Fixers/Offices/Hana Association\|Hana Association]] is in charge of all Fixer clerical affairs and are the ones who assign [[Fixers/Colors\|Colors]]
 
 
 

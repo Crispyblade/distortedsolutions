@@ -38,4 +38,5 @@ Known Bloodfiend Families:
 La Manchaland
 [[Businesses and Organizations/The Counts\|The Counts]]
 [[Businesses and Organizations/B Corp\|B Corp]] has an elder Bloodfiend
+The Family: Giants with multiple arms they swing like pinwheels
 ![Pasted image 20250228181101.png](/img/user/Pasted%20image%2020250228181101.png)

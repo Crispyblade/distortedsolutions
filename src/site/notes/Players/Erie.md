@@ -21,3 +21,5 @@ I mean Erie would explain its either that or baiting rats into attacking her bec
 
 it's just a weird arrow and she can make a hard blood bow, it's probably something from when she got turned and just doesn't remember just that its important somehow.
 Arrow is from [[Monsters/Bloodfiend\|Bloodfiend]] Hunters, might be Atelier Logic
+
+Dealing with existential crisis

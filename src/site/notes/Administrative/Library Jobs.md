@@ -14,37 +14,37 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 	Floor of History
 		Scorched Girl - Clear
 		Happy Teddy Bear - Clear
-		Fairy Festival 10,000 Ahn
-		Queen Bee 10,000 Ahn
-		Snow White's Apple 30,000 Ahn
+		Fairy Festival 10,000 Ahn Urban Plague
+		Queen Bee 30,000 Ahn Urban Nightmare
+		Snow White's Apple 50,000 Ahn Urban Nightmare
 		
 	Floor of Technological Science
-		Forsaken Murderer 5000 Ahn
-		All-Around Helper 5000 Ahn
-		Singing Machine 10,000 Ahn
-		The Funeral of the dead Butterflies 20,000 Ahn
-		Der Freishutz 30,000 Ahn
+		Forsaken Murderer 5000 Ahn Urban Legend
+		All-Around Helper 5000 Ahn Urban Legend
+		Singing Machine 10,000 Ahn Urban Plague
+		The Funeral of the dead Butterflies 20,000 Ahn Urban Nightmare
+		Der Freishutz 30,000 Ahn Urban Nightmare
 		
 	Floor of Literature
-		Today's Shy Look 5000 Ahn
-		Red Shoes 5000 Ahn
-		Spider Bud 5000 Ahn
-		Laetitia 10,000 Ahn
-		Dream of a Black Swan 40,000 Ahn
+		Today's Shy Look 5000 Ahn Urban Myth
+		Red Shoes 5000 Ahn Urban Legend
+		Spider Bud 5000 Ahn Urban Plague
+		Laetitia 10,000 Ahn Urban Nightmare
+		Dream of a Black Swan 40,000 Ahn Urban Nightmare
 		
 	Floor of Art:
-		Fragment of the Universe 5000 Ahn
-		Child of the Galaxy 5000 Ahn
-		Porccubus 10,000 Ahn
-		Alriune 10,000 Ahn
-		The Silent Orchestra 60,000 Ahn
+		Fragment of the Universe 5000 Ahn Urban Legend
+		Child of the Galaxy 5000 Ahn Urban Legend
+		Porccubus 10,000 Ahn Urban Plague
+		Alriune 10,000 Ahn Urban Nightmare
+		The Silent Orchestra 60,000 Ahn Urban Nightmare
 		
 	Floor of Natural Sciences
-		The Queen of Hatred 20,000 Ahn
-		The Knight of Despair 20,000 Ahn
-		The King of Greed 20,000 Ahn
-		The Servant of Wrath 20,000 Ahn
-		The Jester of Nihil 100,000 Ahn
+		The Queen of Hatred 20,000 Ahn Urban Nightmare
+		The Knight of Despair 20,000 Ahn Urban Nightmare
+		The King of Greed 20,000 Ahn Urban Nightmare
+		The Servant of Wrath 20,000 Ahn Star of the City
+		The Jester of Nihil 100,000 Ahn Star of the City
 		
 	Floor of Language:
 		Little Red Riding Hooded Mercenary 20,000 Ahn

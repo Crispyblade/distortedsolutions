@@ -29,7 +29,7 @@ Grade 6:
 Platypus Office
 Molar Office (Defunt)
 Molar Boatworks Office U Corp
-Rosespanner Workshop Office
+Rosespanner [[Workshops\|Workshops]] Office
 
 Grade 5:
 Gorilla Office

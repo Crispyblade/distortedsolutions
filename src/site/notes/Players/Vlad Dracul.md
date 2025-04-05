@@ -19,7 +19,7 @@ I'm thinking they might not know who Dracula actually was. The pop culture icon 
 
 I think instead of the kings, the clan might officially be called [[Businesses and Organizations/The Counts\|The Counts]]. Unless that's too on the nose
 
-Something Vlad wouldn't know. The head of the Counts, Maria Dracul, more commonly known as Lady Dracula, or simply the Countess actually fell in love with a human a few centuries back. Eventually something terrible would befall him at the hands of other humans and she would grow to despise humans as a whole. Thinking they're fit for nothing more than to be bloodbags. (Yeah I'm kind of thinking of doing the castlevania thing)He could be called Renfield.
+Something Vlad wouldn't know. The head of the Counts, [[Maria Dracul\|Maria Dracul]], more commonly known as Lady Dracula, or simply the Countess actually fell in love with a human a few centuries back. Eventually something terrible would befall him at the hands of other humans and she would grow to despise humans as a whole. Thinking they're fit for nothing more than to be bloodbags. (Yeah I'm kind of thinking of doing the castlevania thing)He could be called Renfield.
 
 Lyza is a human. A bloodfiend and human relationship is taboo. He eventually left of his own accord. But he's a fixer now because he believes he has a better chance finding Lyza that way if she is reincarnated
 
