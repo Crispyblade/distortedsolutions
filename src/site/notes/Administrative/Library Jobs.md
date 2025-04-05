@@ -6,9 +6,9 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 
 	Floor of General Works
 		Bloodbath - Clear
-		Heart of Aspiration 5000 Ahn
-		Pinochio 5000 Ahn
-		The Snow Queen 10,000 Ahn
+		Heart of Aspiration 5000 Ahn Urban Legend
+		Pinochio 5000 Ahn Urban Nightmare
+		The Snow Queen 10,000 Ahn Star of the city
 		The Silent Girl 100,000 Ahn (Must finish floor of religion first)
 		
 	Floor of History
