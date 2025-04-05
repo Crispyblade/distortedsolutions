@@ -9,7 +9,7 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 		Heart of Aspiration 5000 Ahn
 		Pinochio 5000 Ahn
 		The Snow Queen 10,000 Ahn
-		The Silent Girl 30,000 Ahn 
+		The Silent Girl 100,000 Ahn (Must finish floor of religion first)
 		
 	Floor of History
 		Scorched Girl - Clear
@@ -47,25 +47,26 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 		The Jester of Nihil 100,000 Ahn Star of the City
 		
 	Floor of Language:
-		Little Red Riding Hooded Mercenary 20,000 Ahn
-		Big and Will be Bad Wolf 20,000 Ahn
-		Mountain of Smiling Bodies 50,000 Ahn
-		Nosferatu 50,000 Ahn
-		Nothing There 200,000 Ahn
+		Little Red Riding Hooded Mercenary 20,000 Ahn Urban Nightmare
+		Big and Will be Bad Wolf 20,000 Ahn Urban Nightmare
+		Mountain of Smiling Bodies 50,000 Ahn Star of the City 
+		Nosferatu 50,000 Ahn Star of the City
+		Nothing There 200,000 Ahn Star of the City
 		
 	Floor of Social Sciences:
 		Suppress Oz: (Comes with a note) "Hello dear guests, we have not met but I was asked to personally send out this contract by Angela. I am Chesed, head librarian of the floor of Social Sciences. My floor contains books pertaining to fairy tales and as the name suggests, how people and fiction interact with the real world. As im sure you are aware, the abnormalities we contain in the books have begun to "leak out". Currently this is mostly harmless, but im afraid the abnormalities contained on my floor have been a bit, problematic. Specifically people have been "stuck" in their dreams as ive been told. Ive attached more details to this letter, if you could suppress these abnormalities im sure Angela would reward you quite handsomly. I also provide excellent imported coffee and make a great conversationlist if that proves enticing. Sincerely - Chesed
 		500,000 Ahn upon suppressing Oz (this is a longer one with a hefty dose of RP :)
-		
+	Urban Nightmare to Star of the City difficulty
+
 	Floor of Philosophy:
-		Big Bird 20,000
+		Big Bird 20,000 Star of the city
 		Punishing Bird - Clear
-		Judgement Bird 20,000
-		... Bird 200,000
+		Judgement Bird 20,000 Star of the city
+		... Bird 200,000  Impuritas Civitatis
 		
 	Floor of Religion:
-		Burrowing Heaven 20,000 Ahn
-		The Price of Silence 20,000 Ahn
-		Blue Star 50,000 Ahn
+		Burrowing Heaven 20,000 Ahn Star of the city
+		The Price of Silence 20,000 Ahn Star of the city
+		Blue Star 50,000 Ahn Star of the city
 		White Night 100,000 Ahn
     
