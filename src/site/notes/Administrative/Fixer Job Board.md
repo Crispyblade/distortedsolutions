@@ -54,7 +54,7 @@ Fixer Job Types
 	Dieci Association - A tome describing combat tactics is believed to be found in the Outskirts, 20,000 Ahn to the ones who can find it. More details inside
 	Eight Association - A pack of monsters has setup shop on one of our supply lines in the outskirts, 25,000 Ahn to anyone who clears it out. 
 	Zwei Escort - Escort a Limbus Company through district 23. 15,000 Ahn + "discount coupons"
-	Liu - Hold a checkpoint in district 24 until dawn. 25,000 Ahn
+
 	
 
 	
@@ -74,6 +74,8 @@ Fixer Job Types
 	Strange Dreams - People in K Corp's Nest are having nightmares in a localized area. 100,000 ahn to the office that can solve this. First Class return trip Warp Train tickets provided
 	Liu Association - A new squad from the Index has setup shop in District 12, 120,000 Ahn to those who wipe out the squad.
 	Outskirts Exploration: Need basilisk eggs for experiment! Big reward! - 100,000 Ahn
+	Liu - Hold a checkpoint in district 24 until dawn. 150,000 Ahn
+	
 [[Star of the City\|Star of the City]] 150,000 to 500,000 [[Economy/Ahn\|Ahn]]
 
 [[History and Myths/The Ruins\|The Ruins]] Exploration 500,000+ [[Economy/Ahn\|Ahn]]
