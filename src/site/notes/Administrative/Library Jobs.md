@@ -34,13 +34,13 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 	Floor of History
 		Scorched Girl - Clear
 		Happy Teddy Bear - Clear
-		Fairy Festival Urban Plague
+		Fairy Festival - Clear
 		Queen Bee Urban Nightmare
 		Snow White's Apple Urban Nightmare
 		
 	Floor of Technological Science
-		Forsaken Murderer - Clear
-		All-Around Helper Urban Legend
+		Forsaken Murderer - Urban Legend
+		All-Around Helper Clear
 		Singing Machine Urban Plague
 		The Funeral of the dead Butterflies Urban Nightmare
 		Der Freishutz Urban Nightmare
