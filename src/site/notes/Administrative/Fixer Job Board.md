@@ -55,9 +55,7 @@ Fixer Job Types
 	Eight Association - A pack of monsters has setup shop on one of our supply lines in the outskirts, 25,000 Ahn to anyone who clears it out. 
 	Zwei Escort - Escort a Limbus Company through district 23. 15,000 Ahn + "discount coupons"
 
-	
 
-	
 [[Urban Plague\|Urban Plague]] 25,000 to 75,000 [[Economy/Ahn\|Ahn]]
 
 	Wipe out the Church of Gears Leadership + 10 Church Members - 75,000 Ahn
