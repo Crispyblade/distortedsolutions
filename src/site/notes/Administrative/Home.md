@@ -16,7 +16,7 @@ Team Members
 
 [[Geography and Politics/The City\|The City]]
 
-[[Misc/Mechanics\|Mechanics]]
+[[Administrative/Mechanics\|Mechanics]]
 
 [[Recaps/Recaps\|Recaps]]
 

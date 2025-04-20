@@ -39,9 +39,9 @@ Realizations: The last abnormality on a floor consists of a boss rush of all abn
 		Snow White's Apple Urban Nightmare
 		
 	Floor of Technological Science
-		Forsaken Murderer - Urban Legend
+		Forsaken Murderer - Clear
 		All-Around Helper Clear
-		Singing Machine Urban Plague
+		Singing Machine Clear
 		The Funeral of the dead Butterflies Urban Nightmare
 		Der Freishutz Urban Nightmare
 		
