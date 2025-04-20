@@ -27,6 +27,28 @@ Fixer: Stopped from being hunted
 
 Below information is banned from anyone who is not mercer
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1.	Origins & Background
 a.	Where’s your character from? Describe their hometown (district, Nest, Backstreets, etc.). 
 i.	K Corp Nest, doesn’t know anything more
