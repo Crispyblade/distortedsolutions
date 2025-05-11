@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/players/jaden/"}
 ---
 
+https://youtu.be/Kr3hg_4KkHY?si=ZyA2xE2Muk2oxzY9
+
 District 23 Backstreets. Grew up with [[Players/Suzy\|Suzy]]
 Had one less [[Characters/Card\|Card]] than belongs in a deck after waking up in the backstreets. 
 

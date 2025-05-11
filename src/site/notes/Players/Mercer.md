@@ -103,3 +103,11 @@ b.	If they died tomorrow, what would they do today?
 i.	If Mercer died tomorrow, today he would enjoy his time with his friends and if he could make his way to k corp to find his family and apologize to them 
 c.	Retirement plans: Open a bar? Run a charity? Disappear?
 i.	Retirement, no plans for that
+
+
+
+Also because it was brought up if Mercer or Bernard did turn Uta into a distortion somehow he may start planning to kill her
+
+His reasoning being it’s his fault this monster is roaming around and could kill who knows how many people so better to take responsibility
+
+Also that may cause him to distort in the process and I am pretty sure that distortion will lead to the monster

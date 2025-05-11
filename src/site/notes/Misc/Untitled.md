@@ -10,7 +10,7 @@ Crimson Smear, Erie
 Black Void, Mercer
 
 
-History - Mercer
+History - [[Players/Mercer\|Mercer]]
 Tech - Uta
 Literature - Anne
 Art - Jaden
